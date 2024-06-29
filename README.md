@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Elise
 ======================
 
-Automation Engineer at Energage
+Software Engineer at Energage
 -------------------------------
 
 I got started with code in middle school, messing around with Neopets and making sites with HTML. It was just a curiosity then, but I revisited coding as a career in 2018. I now work with C#, HTML, CSS and JS at my dream job.
